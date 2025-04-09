@@ -4,7 +4,7 @@
 
 ## 🌟 Experience Sports Like Never Before
 
-**SportsTix** revolutionizes how you experience live sports events with our cutting-edge ticket booking platform. Designed especially for indoor sports enthusiasts, our app brings stadiums to life with immersive 3D visualizations and seamless booking experiences.
+**SportsTix** revolutionizes how you experience live sports events with our cutting-edge ticket booking platform. Designed especially for indoor sports enthusiasts and also every bit for outdoor sports, our app brings stadiums to life with immersive 3D visualizations and seamless booking experiences.
 
 ---
 
