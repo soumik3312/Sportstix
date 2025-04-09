@@ -98,7 +98,9 @@ SportsTix is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 📱 App Screenshots
 
-![WhatsApp Image 2025-04-09 at 22 02 12_cd1796c0](https://github.com/user-attachments/assets/ddc05611-bd04-408b-9074-3c8ff5b909ec), ![WhatsApp Image 2025-04-09 at 22 02 12_f02b4366](https://github.com/user-attachments/assets/64bb3827-17af-46fe-bfd9-88b4318a2197)
+![WhatsApp Image 2025-04-09 at 22 02 08_9d3fb07a](https://github.com/user-attachments/assets/40fcc45c-9e3b-4dd9-b623-29bbace8e17a)
+![WhatsApp Image 2025-04-09 at 22 02 09_5bae9cc0](https://github.com/user-attachments/assets/9ae8d462-415d-43b8-96e1-66e749e24fe9)
+
 
 
 
