@@ -79,7 +79,7 @@ Bank-grade encryption for all your transactions and personal data.
 ## 📞 Contact & Support
 
 - **Email**: support@sportstixapp.com
-- **Website**: https://www.sportstixapp.com
+- **Website**: [https://www.sportstixapp.com](https://v0-sportix-website-design-q6ryl0.vercel.app)
 - **Twitter**: [@SportsTixApp](https://twitter.com/sportstixapp)
 - **Instagram**: [@sportstix.official](https://instagram.com/sportstix.official)
 
@@ -130,6 +130,16 @@ SportsTix is released under the MIT License. See [LICENSE](LICENSE) for details.
 ![WhatsApp Image 2025-04-09 at 22 02 17_26de7587](https://github.com/user-attachments/assets/634dd958-ae7e-4e10-8fee-287ae434b63f)
 ##Ticket Cancellation Successfull
 ![WhatsApp Image 2025-04-09 at 22 02 17_04f4b977](https://github.com/user-attachments/assets/0684a84b-80e2-4ffc-9de7-a4d6fef22e7a)
+##Account Settings
+![WhatsApp Image 2025-04-09 at 22 53 54_83e40b5a](https://github.com/user-attachments/assets/dd63057c-8feb-422c-b585-dcecf9b3b9b2)
+##Theme Settings
+![WhatsApp Image 2025-04-09 at 22 53 57_1c295151](https://github.com/user-attachments/assets/33d246c6-9453-4048-9515-cd1abec59717)
+##Security Settings
+![WhatsApp Image 2025-04-09 at 22 53 57_ecb513b5](https://github.com/user-attachments/assets/4a23eddb-4308-4e7f-8af9-ad8621b0bd7f)
+##Help&Support
+![WhatsApp Image 2025-04-09 at 22 53 58_f9884652](https://github.com/user-attachments/assets/b7a15798-dcfb-4381-b0bd-6ef8a3384c42)
+##Notification Settings
+![WhatsApp Image 2025-04-09 at 22 53 59_3e25e09c](https://github.com/user-attachments/assets/c82c6b9d-0a5a-4f4f-b3a7-55ead10aedda)
 
 
 
