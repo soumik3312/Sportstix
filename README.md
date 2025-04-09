@@ -16,7 +16,7 @@ Book tickets for ANY sport, ANY stadium, ANYWHERE in the country!
 ### 🏟️ Stunning 3D Stadium Views
 Experience venues before you buy with our interactive holographic stadium models
 
-![3D Stadium View](![WhatsApp Image 2025-04-09 at 22 02 12_24874cc3](https://github.com/user-attachments/assets/0eaeb8e9-3598-4e62-a5b5-b84df00c0437)
+![3D Stadium View]((https://github.com/user-attachments/assets/0eaeb8e9-3598-4e62-a5b5-b84df00c0437)
 )
 
 ### 🏓 Indoor Sports Specialist
@@ -112,14 +112,6 @@ SportsTix is released under the MIT License. See [LICENSE](LICENSE) for details.
 " width="200" />
    <img src="![WhatsApp Image 2025-04-09 at 22 02 12_ddf89d49](https://github.com/user-attachments/assets/b0b07d57-5cab-42d4-b5c1-a73195aa64a4)
 " width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
-   <img src="https://github.com/yourusername/sportstix/blob/main/assets/screenshot4.png" width="200" />
 
 
 </div>
