@@ -100,7 +100,7 @@ SportsTix is released under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Signin Page
 ![WhatsApp Image 2025-04-09 at 22 02 08_9d3fb07a](https://github.com/user-attachments/assets/40fcc45c-9e3b-4dd9-b623-29bbace8e17a)
-##Home
+## Home
 ![WhatsApp Image 2025-04-09 at 22 02 09_5bae9cc0](https://github.com/user-attachments/assets/9ae8d462-415d-43b8-96e1-66e749e24fe9)
 ## Games Hub
 ![WhatsApp Image 2025-04-09 at 22 02 09_d9ffbab8](https://github.com/user-attachments/assets/f41a653d-f43e-418e-9620-22b2b6eb7374)
